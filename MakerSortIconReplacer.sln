@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "MakerSortIconReplacer", "MakerSortIconReplacer\MakerSortIconReplacer.shproj", "{0DC368D2-AA68-433B-8E11-2C48BB5DEDEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HS2_MakerSortIconReplacer", "HS2_MakerSortIconReplacer\HS2_MakerSortIconReplacer.csproj", "{DD32322A-4D79-45C4-BCEB-FADE6E576D7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_MakerSortIconReplacer", "AI_MakerSortIconReplacer\AI_MakerSortIconReplacer.csproj", "{847745AE-E499-4F16-B52B-2EE0BA3D0C55}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		MakerSortIconReplacer\MakerSortIconReplacer.projitems*{0dc368d2-aa68-433b-8e11-2c48bb5dedee}*SharedItemsImports = 13
+		MakerSortIconReplacer\MakerSortIconReplacer.projitems*{847745ae-e499-4f16-b52b-2ee0ba3d0c55}*SharedItemsImports = 4
+		MakerSortIconReplacer\MakerSortIconReplacer.projitems*{dd32322a-4d79-45c4-bceb-fade6e576d7b}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD32322A-4D79-45C4-BCEB-FADE6E576D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD32322A-4D79-45C4-BCEB-FADE6E576D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD32322A-4D79-45C4-BCEB-FADE6E576D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD32322A-4D79-45C4-BCEB-FADE6E576D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{847745AE-E499-4F16-B52B-2EE0BA3D0C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847745AE-E499-4F16-B52B-2EE0BA3D0C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847745AE-E499-4F16-B52B-2EE0BA3D0C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847745AE-E499-4F16-B52B-2EE0BA3D0C55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4154135-02D0-41D7-875F-A235E6FDB852}
+	EndGlobalSection
+EndGlobal
